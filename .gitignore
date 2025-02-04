@@ -23,3 +23,6 @@ go.work.sum
 
 # env file
 .env
+
+# original hugo toml
+hugo.toml.backup
