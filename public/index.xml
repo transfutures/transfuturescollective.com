@@ -2,31 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trans Futures Collective</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Trans Futures Collective</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>All Rights Reserved</copyright>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>//localhost:1313/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h1 id=&#34;trans-futures-collective&#34;&gt;Trans Futures Collective&lt;/h1&gt;&#xA;&lt;h2 id=&#34;_trans-liberation-is-your-liberation_&#34;&gt;&lt;em&gt;Trans Liberation is Your Liberation&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;&#xA;&lt;p&gt;Trans Futures Collective began as Trans Yoga Project in July 2020, when eight gender expansive yoga teachers came together to lead a virtual trans inclusion webinar during the beginning of the coronavirus pandemic. In 2023, after assessing all the ways we have grown and shifted since our inception, the remaining 5 members came to a consensus to change the name to Trans Futures Collective. This allows us to hold space more expansively for our trans and non binary siblings beyond (though still including) yoga.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/hire-us/</link>
+      <link>http://localhost:1313/hire-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/hire-us/</guid>
+      <guid>http://localhost:1313/hire-us/</guid>
       <description>&lt;h1 id=&#34;-hire-us-&#34;&gt;🏳️‍⚧️ Hire Us! 🏳️‍⚧️&lt;/h1&gt;&#xA;&lt;h2 id=&#34;get-in-touch-&#34;&gt;Get In Touch! 📧&lt;/h2&gt;&#xA;&lt;p&gt;Email &lt;a href=&#34;mailto:team@transfuturescollective.com&#34;&gt;team@transfuturescollective.com&lt;/a&gt; (link) to receive our sliding scale pricing. Pricing structures honor the limitations affecting violently targeted communities&amp;rsquo; ablities to access resouces for professional training and development.&lt;/p&gt;&#xA;&lt;h3 id=&#34;workshops-&#34;&gt;Workshops 💻&lt;/h3&gt;&#xA;&lt;p&gt;TFC workshops are designed with community conversation in mind centering transgender, gender nonconforming and queer folks. Our workshops are offered on a rolling basis and can be held for small groups, large groups, studio and corporate settings to deepen knowledge and understanding. &lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/meet-team/</link>
+      <link>http://localhost:1313/meet-team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/meet-team/</guid>
+      <guid>http://localhost:1313/meet-team/</guid>
       <description></description>
     </item>
   </channel>

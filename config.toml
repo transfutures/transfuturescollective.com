@@ -1,4 +1,4 @@
-# baseURL = "https://your_domain.com/"
+baseURL = "https://transfuturescollective.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
@@ -14,6 +14,7 @@ disableKinds = ["taxonomy", "term"]
   image = "tfc-logo-name-tagline.png"  # path relative to static directory
 
   links = [
+    { link = { href = "https://lnk.bio/trans.futures.collective/team", text = "Meet The Team"} },
     { patreon = "https://www.patreon.com/transfutures" },
     { bluesky = "https://bsky.app/profile/transfuturesco.bsky.social" },
     { instagram = "https://instagram.com/transfuturescollective" },
@@ -21,6 +22,7 @@ disableKinds = ["taxonomy", "term"]
     { proton = { href = "https://drive.proton.me/urls/VRGVM7Q028#5jM5aCE9CiM7", text = " 2024 TDOR Shares"} },
     { airtable = { href = "https://airtable.com/appoj0x3noDkNIytg/shrtr0SfOzDhJyKmD/tbl7Rt6wggViU1khm", text = "Anti-Genocide Resources"} },
     { email = "mailto:team@transfuturescollective.com" },
+    { link = { href = "https://lnk.bio/trans.futures.collective/hire-us", text = "Hire Us!"} },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
